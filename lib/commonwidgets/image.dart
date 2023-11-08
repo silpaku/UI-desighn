@@ -47,7 +47,7 @@ Widget TextWidget(
   );
 }
 
-Widget TextWidgets(
+Widget textWidgets(
   String text,
   FontWeight fontWeight,
   double fontSize,

@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
           kHeight(context, 2),
           Padding(
             padding: const EdgeInsets.only(left: 15),
-            child: TextWidgets(
+            child: textWidgets(
                 'BAREFOOT AND WRAPPED in a hushed Paris suite, 26-year-old entrepreneur and reality star Kyile Jenner is seated makeup artists—who are also her confidantes—hover around her like discreet, black-garbed hummingbirds,making imperceptible tweaks to her long dark hair and flawless skin. ',
                 FontWeight.normal,
                 16.8),
